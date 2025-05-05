@@ -1,14 +1,14 @@
 # Eye Disease Identification Website
 
 ## Project Description
-This project involves the creation of an innovative web-based platform for detecting eye diseases using deep learning technologies. By leveraging convolutional neural networks (CNNs), the website can analyze retinal images and accurately identify various eye conditions, achieving a classification accuracy of 93%. The platform is designed to be user-friendly and accessible, enabling early diagnosis and intervention in ocular healthcare.
+This project involves the creation of an innovative web-based platform for detecting eye diseases using deep learning technologies. By leveraging convolutional neural networks (CNNs), the website can analyze retinal images and accurately identify various eye conditions, achieving a classification accuracy of 68%. The platform is designed to be user-friendly and accessible, enabling early diagnosis and intervention in ocular healthcare.
 
 The project aims to democratize eye care by providing a scalable, efficient, and accurate diagnostic tool that can be used by healthcare professionals and individuals alike.
 
 ## Features
 ### Deep Learning Integration:
 - Utilizes CNNs for accurate detection of eye diseases like diabetic retinopathy, glaucoma, and macular degeneration.
-- Achieves a high classification accuracy of 93%.
+- Achieves a high classification accuracy of 68%.
 
 ### User-Friendly Interface:
 - Simple and intuitive web interface for uploading retinal images.
